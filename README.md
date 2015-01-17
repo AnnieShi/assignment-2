@@ -1,2 +1,2 @@
 # assignment-2
-Practicing with html
+Practicing what we learn in class week 2
